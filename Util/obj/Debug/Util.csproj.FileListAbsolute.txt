@@ -1,0 +1,5 @@
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\Util\bin\Debug\Util.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\Util\bin\Debug\Util.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\Util\obj\Debug\Util.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\Util\obj\Debug\Util.pdb
