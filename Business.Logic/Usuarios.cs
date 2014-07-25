@@ -7,12 +7,13 @@ using System.Data.SqlClient;
 
 namespace Business.Logic
 {
+    //ESTA CLASE LA CREE EN EL LAB03 DE LA UNIDAD 5
     public class Usuarios
     {
         #region Constructor
         public Usuarios()
         {
-            this.Conn = new SqlConnection("Data Source=serverisi; Initial Catalog academia; Integrated Security=false; user=net;password=net;");
+            this.Conn = new SqlConnection("Data Source=localhost; Initial Catalog=academia; Integrated Security=true;");
             /*Este connection string es para conectarse con la base de datos academia en el servidor
              * del departamento de sistemas en una PC de los laboratorios de sistemas,
              * si se realiza el laboratorio desde su PC puede probar con el siguiente connection string

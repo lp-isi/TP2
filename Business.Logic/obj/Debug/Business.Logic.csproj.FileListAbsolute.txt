@@ -7,3 +7,12 @@ C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\Bus
 C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\Business.Logic\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\Business.Logic\obj\Debug\Business.Logic.dll
 C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\Business.Logic\bin\Debug\Data.Database.pdb

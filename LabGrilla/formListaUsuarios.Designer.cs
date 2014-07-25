@@ -31,6 +31,10 @@
             this.lblListaDeUsuarios = new System.Windows.Forms.Label();
             this.dvgUsuarios = new System.Windows.Forms.DataGridView();
             this.btnGuardar = new System.Windows.Forms.Button();
+            this.apellido = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.fecha_nac = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.direccion = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dvgUsuarios)).BeginInit();
             this.SuspendLayout();
             // 
@@ -45,8 +49,15 @@
             // 
             // dvgUsuarios
             // 
-            this.dvgUsuarios.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.dvgUsuarios.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dvgUsuarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dvgUsuarios.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.apellido,
+            this.nombre,
+            this.fecha_nac,
+            this.direccion});
             this.dvgUsuarios.Location = new System.Drawing.Point(15, 24);
             this.dvgUsuarios.Name = "dvgUsuarios";
             this.dvgUsuarios.Size = new System.Drawing.Size(578, 469);
@@ -62,6 +73,30 @@
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
             this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
+            // 
+            // apellido
+            // 
+            this.apellido.DataPropertyName = "apellido";
+            this.apellido.HeaderText = "Apellido";
+            this.apellido.Name = "apellido";
+            // 
+            // nombre
+            // 
+            this.nombre.DataPropertyName = "nombre";
+            this.nombre.HeaderText = "Nombre";
+            this.nombre.Name = "nombre";
+            // 
+            // fecha_nac
+            // 
+            this.fecha_nac.DataPropertyName = "fecha_nac";
+            this.fecha_nac.HeaderText = "Fecha de Nacimiento";
+            this.fecha_nac.Name = "fecha_nac";
+            // 
+            // direccion
+            // 
+            this.direccion.DataPropertyName = "direccion";
+            this.direccion.HeaderText = "Direccion";
+            this.direccion.Name = "direccion";
             // 
             // formListaUsuarios
             // 
@@ -84,6 +119,10 @@
         private System.Windows.Forms.Label lblListaDeUsuarios;
         private System.Windows.Forms.DataGridView dvgUsuarios;
         private System.Windows.Forms.Button btnGuardar;
+        private System.Windows.Forms.DataGridViewTextBoxColumn apellido;
+        private System.Windows.Forms.DataGridViewTextBoxColumn nombre;
+        private System.Windows.Forms.DataGridViewTextBoxColumn fecha_nac;
+        private System.Windows.Forms.DataGridViewTextBoxColumn direccion;
     }
 }
 

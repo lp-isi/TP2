@@ -450,7 +450,7 @@
             this.Controls.Add(this.txtId);
             this.Controls.Add(this.lblId);
             this.Name = "frmUsuario";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "ABM Usuario";
             this.Load += new System.EventHandler(this.frmUsuario_Load);
             this.gpxDatosPersonales.ResumeLayout(false);

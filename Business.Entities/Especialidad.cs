@@ -11,7 +11,7 @@ namespace Business.Entities
        public Especialidad(string desc)
        {
            this.Descripcion = desc;
-           this.Id = id;
+           //this.Id = id;
 
        }
 

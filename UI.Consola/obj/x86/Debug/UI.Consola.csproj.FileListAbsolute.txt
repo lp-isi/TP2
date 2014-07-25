@@ -9,3 +9,14 @@ C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\UI.
 C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\UI.Consola\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\UI.Consola\obj\x86\Debug\UI.Consola.exe
 C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5TP2L02\TP2\UI.Consola\obj\x86\Debug\UI.Consola.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\bin\Debug\Business.Entities.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\bin\Debug\Business.Logic.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\bin\Debug\Business.Entities.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\bin\Debug\Business.Logic.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\obj\x86\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\obj\x86\Debug\UI.Consola.exe
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\Unidades\Unidad.05\U5L03\TP2\UI.Consola\obj\x86\Debug\UI.Consola.pdb

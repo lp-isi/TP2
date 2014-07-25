@@ -17,7 +17,7 @@ namespace Academia
         public frmEspecialidad()
         {
             InitializeComponent();
-            this.CargarCombos();
+            this.CargaCombos();
         }
 
         public bool Validaciones() 
@@ -66,7 +66,7 @@ namespace Academia
         }
 
         public void CargaCombos()
-        { List<Business.Entities.Especialidad> listadoEspecialidades = new List<Business.Entities.Especialidad>;
+        { List<Business.Entities.Especialidad> listadoEspecialidades = new List<Business.Entities.Especialidad>();
            
     //        // Creo DataTable con origen de datos para la lista
                DataTable dtEspecialidades = new DataTable();
