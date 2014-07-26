@@ -127,7 +127,7 @@ namespace LabGrilla
             colUsuario.DataPropertyName = "usuario";
             colUsuario.DisplayIndex = 10;
            
-            //CREANDO LA COLUMNA USUARIO
+            //CREANDO LA COLUMNA CLAVE
             DataGridViewTextBoxColumn colClave = new DataGridViewTextBoxColumn();
             colClave.Name = "clave";
             colClave.HeaderText = "Clave";
