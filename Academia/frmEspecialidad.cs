@@ -73,16 +73,17 @@ namespace Academia
 			DataTable dtEspecialidades = new DataTable();
 			dtEspecialidades.Columns.Add("Text");
 			dtEspecialidades.Columns.Add("Value");
-			dtEspecialidades.Rows.Add(new object[] { "NombreEspecialidad", "1" });
-			// Aquí se agregaria resto de la lista como la linea anterior
 
-			//// Cargo lista de Tipos de Documento
+			listadoEspecialidades = EspecialidadAdapter.ObtenerListado();
+
+			foreach (Business.Entities.Especialidad esp in listadoEspecialidades)
+			{
+				dtEspecialidades.Rows.Add(new object[] {esp.Descripcion,esp.Id});
+			}
+
 			cbxEspecialidad.DataSource = dtEspecialidades;
-			cbxEspecialidad.DisplayMember = "Text"; 
-
-            // listadoEspecialidades = EspecialidadAdapter.ObtenerListado();
-            //foreach ( ) ACA HACER EL FOREACH QUE ASIGNE ROWS AL DATATABLE DEL LISTADO
-        }
+			cbxEspecialidad.DisplayMember = "Text";
+		}
 
 		private void frmEspecialidad_Load(object sender, EventArgs e)
 		{

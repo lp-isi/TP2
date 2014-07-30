@@ -27,7 +27,6 @@ namespace Data.Database
         //ObtenerListado
         // que devuelva List de especialidades con id 
 
-        //
     }
 
 }

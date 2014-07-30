@@ -28,3 +28,4 @@ C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desk
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.pdb
 C:\Users\LUCRECIA\Documents\GitHub\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.exe
 C:\Users\LUCRECIA\Documents\GitHub\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
