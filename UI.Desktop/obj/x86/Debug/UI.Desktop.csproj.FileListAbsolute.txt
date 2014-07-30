@@ -11,3 +11,16 @@ C:\Users\LUCRECIA\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.cspro
 C:\Users\LUCRECIA\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.exe
 C:\Users\LUCRECIA\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.pdb
 C:\Users\LUCRECIA\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Usuarios.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.exe
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Usuarios.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csproj.GenerateResource.Cache

@@ -66,22 +66,28 @@ namespace Academia
         }
 
         public void CargaCombos()
-        { List<Business.Entities.Especialidad> listadoEspecialidades = new List<Business.Entities.Especialidad>();
+        { 
+			List<Business.Entities.Especialidad> listadoEspecialidades = new List<Business.Entities.Especialidad>();
            
-    //        // Creo DataTable con origen de datos para la lista
-               DataTable dtEspecialidades = new DataTable();
-               dtEspecialidades.Columns.Add("Text");
-               dtEspecialidades.Columns.Add("Value");
-               dtEspecialidades.Rows.Add(new object[] { "NombreEspecialidad", "1" });
-    //      // Aquí se agregaria resto de la lista como la linea anterior
+			// Creo DataTable con origen de datos para la lista
+			DataTable dtEspecialidades = new DataTable();
+			dtEspecialidades.Columns.Add("Text");
+			dtEspecialidades.Columns.Add("Value");
+			dtEspecialidades.Rows.Add(new object[] { "NombreEspecialidad", "1" });
+			// Aquí se agregaria resto de la lista como la linea anterior
 
-    //// Cargo lista de Tipos de Documento
-               cbxEspecialidad.DataSource = dtEspecialidades;
-               cbxEspecialidad.DisplayMember = "Text"; 
+			//// Cargo lista de Tipos de Documento
+			cbxEspecialidad.DataSource = dtEspecialidades;
+			cbxEspecialidad.DisplayMember = "Text"; 
 
             // listadoEspecialidades = EspecialidadAdapter.ObtenerListado();
             //foreach ( ) ACA HACER EL FOREACH QUE ASIGNE ROWS AL DATATABLE DEL LISTADO
         }
+
+		private void frmEspecialidad_Load(object sender, EventArgs e)
+		{
+
+		}
 
 
        

@@ -14,3 +14,20 @@ C:\Users\LUCRECIA\Documents\GitHub\TP2\Academia\obj\x86\Debug\Academia.Propertie
 C:\Users\LUCRECIA\Documents\GitHub\TP2\Academia\obj\x86\Debug\Academia.csproj.GenerateResource.Cache
 C:\Users\LUCRECIA\Documents\GitHub\TP2\Academia\obj\x86\Debug\Academia.exe
 C:\Users\LUCRECIA\Documents\GitHub\TP2\Academia\obj\x86\Debug\Academia.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\bin\Debug\Academia.exe
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\bin\Debug\Academia.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\bin\Debug\Business.Entities.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\bin\Debug\Business.Logic.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\bin\Debug\Data.Database.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\bin\Debug\Business.Entities.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\bin\Debug\Business.Logic.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\bin\Debug\Data.Database.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.formLogin.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.formMain.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.frmEspecialidad.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.frmUsuario.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.Properties.Resources.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.csproj.GenerateResource.Cache
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.exe
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.pdb

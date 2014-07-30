@@ -7,6 +7,9 @@ namespace Business.Entities
 {
     public class Usuario : BusinessEntity
     {
+		
+		
+		//A ver si hace el push
 
         #region Propiedades
 

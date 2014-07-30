@@ -36,7 +36,7 @@ namespace Academia
             
             Operacion = EstadoForm.tipoOperacion.Alta;
 
-    //        // Creo DataTable con origen de datos para la lista
+    //        Creo DataTable con origen de datos para la lista
     //        DataTable dtTiposDocumento = new DataTable();
     //        dtTiposDocumento.Columns.Add("Text");
     //        dtTiposDocumento.Columns.Add("Value");

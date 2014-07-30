@@ -9,3 +9,14 @@ C:\Users\LUCRECIA\Documents\GitHub\TP2\UI.Consola\bin\Debug\Data.Database.pdb
 C:\Users\LUCRECIA\Documents\GitHub\TP2\UI.Consola\obj\x86\Debug\UI.Consola.csprojResolveAssemblyReference.cache
 C:\Users\LUCRECIA\Documents\GitHub\TP2\UI.Consola\obj\x86\Debug\UI.Consola.exe
 C:\Users\LUCRECIA\Documents\GitHub\TP2\UI.Consola\obj\x86\Debug\UI.Consola.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\bin\Debug\Business.Entities.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\bin\Debug\Business.Logic.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\bin\Debug\Business.Entities.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\bin\Debug\Business.Logic.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\obj\x86\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\obj\x86\Debug\UI.Consola.exe
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\obj\x86\Debug\UI.Consola.pdb
