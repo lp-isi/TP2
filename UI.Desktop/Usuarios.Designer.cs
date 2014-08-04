@@ -86,6 +86,7 @@
             this.dvgUsuarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.tlUsuarios.SetColumnSpan(this.dvgUsuarios, 2);
             this.dvgUsuarios.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dvgUsuarios.EditMode = System.Windows.Forms.DataGridViewEditMode.EditOnEnter;
             this.dvgUsuarios.Location = new System.Drawing.Point(3, 3);
             this.dvgUsuarios.Name = "dvgUsuarios";
             this.dvgUsuarios.ReadOnly = true;

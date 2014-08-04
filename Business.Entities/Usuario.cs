@@ -32,6 +32,13 @@ namespace Business.Entities
             set { _clave = value; }
         }
 
+        private string _confirmarClave;
+        public string ConfirmarClave
+        {
+            get { return _confirmarClave; }
+            set { _confirmarClave = value; }
+        }
+
         private string _nombre;
         public string Nombre
         {

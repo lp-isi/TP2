@@ -26,3 +26,17 @@ C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\LabGrilla\obj\x86\Debug
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\LabGrilla\obj\x86\Debug\LabGrilla.csproj.GenerateResource.Cache
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\LabGrilla\obj\x86\Debug\LabGrilla.exe
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\LabGrilla\obj\x86\Debug\LabGrilla.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\bin\Debug\LabGrilla.exe
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\bin\Debug\LabGrilla.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\bin\Debug\Business.Logic.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\bin\Debug\Data.Database.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\bin\Debug\Business.Entities.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\bin\Debug\Business.Logic.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\bin\Debug\Data.Database.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\bin\Debug\Business.Entities.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\obj\x86\Debug\LabGrilla.csprojResolveAssemblyReference.cache
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\obj\x86\Debug\LabGrilla.formListaUsuarios.resources
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\obj\x86\Debug\LabGrilla.Properties.Resources.resources
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\obj\x86\Debug\LabGrilla.csproj.GenerateResource.Cache
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\obj\x86\Debug\LabGrilla.exe
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\LabGrilla\obj\x86\Debug\LabGrilla.pdb
