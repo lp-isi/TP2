@@ -47,6 +47,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EstadoForm.cs" />
+    <Compile Include="frmPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlan.Designer.cs">
+      <DependentUpon>frmPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModulo.Designer.cs">
+      <DependentUpon>frmModulo.cs</DependentUpon>
+    </Compile>
     <Compile Include="formLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,6 +85,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmPlan.resx">
+      <DependentUpon>frmPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModulo.resx">
+      <DependentUpon>frmModulo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="formLogin.resx">
       <DependentUpon>formLogin.cs</DependentUpon>
     </EmbeddedResource>
