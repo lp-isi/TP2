@@ -33,8 +33,6 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UI.Web", "UI.Web\", "{99676
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.Database", "Data.Database\Data.Database\Data.Database\Data.Database.csproj", "{18D1C50F-58E0-4D94-B05B-4A95A146E6BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.Consola", "UI.Consola\UI.Consola.csproj", "{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia", "Academia\Academia.csproj", "{10FFCCC1-42EA-43A6-835A-92427BE2CC94}"
 EndProject
 Global
@@ -107,16 +105,6 @@ Global
 		{18D1C50F-58E0-4D94-B05B-4A95A146E6BB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{18D1C50F-58E0-4D94-B05B-4A95A146E6BB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{18D1C50F-58E0-4D94-B05B-4A95A146E6BB}.Release|x86.ActiveCfg = Release|Any CPU
-		{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}.Debug|Mixed Platforms.Build.0 = Debug|x86
-		{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}.Debug|x86.ActiveCfg = Debug|x86
-		{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}.Debug|x86.Build.0 = Debug|x86
-		{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}.Release|Any CPU.ActiveCfg = Release|x86
-		{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}.Release|Mixed Platforms.Build.0 = Release|x86
-		{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}.Release|x86.ActiveCfg = Release|x86
-		{12C60A2C-CA00-4B72-800D-9BD9B6D4D5C9}.Release|x86.Build.0 = Release|x86
 		{10FFCCC1-42EA-43A6-835A-92427BE2CC94}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{10FFCCC1-42EA-43A6-835A-92427BE2CC94}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
 		{10FFCCC1-42EA-43A6-835A-92427BE2CC94}.Debug|Mixed Platforms.Build.0 = Debug|x86

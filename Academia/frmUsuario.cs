@@ -317,6 +317,11 @@ namespace Academia
 
         #endregion
 
+		private void gpxDatosPersonales_Enter(object sender, EventArgs e)
+		{
+
+		}
+
        
 
 

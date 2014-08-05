@@ -94,5 +94,15 @@ namespace UI.Desktop
 
         }
 
+		private void dvgUsuarios_CellContentClick(object sender, DataGridViewCellEventArgs e)
+		{
+
+		}
+
+		private void tcUsuarios_TopToolStripPanel_Click(object sender, EventArgs e)
+		{
+
+		}
+
     }
 }

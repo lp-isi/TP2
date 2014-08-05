@@ -16,5 +16,10 @@ namespace Academia
             InitializeComponent();
             
         }
+
+		private void frmPlan_Load(object sender, EventArgs e)
+		{
+
+		}
     }
 }
