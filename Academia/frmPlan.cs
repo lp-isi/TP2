@@ -11,9 +11,10 @@ namespace Academia
 {
     public partial class frmPlan : Form
     {
-        public frmPlan()
+        public frmPlan() //Solo usa Descripcion, el id del plan lo trabaja la base de datos 
         {
             InitializeComponent();
+            
         }
     }
 }

@@ -81,8 +81,8 @@ namespace Academia
 				dtEspecialidades.Rows.Add(new object[] {esp.Descripcion,esp.Id});
 			}
 
-			cbxEspecialidad.DataSource = dtEspecialidades;
-			cbxEspecialidad.DisplayMember = "Text";
+			cmbEspecialidad.DataSource = dtEspecialidades;
+			cmbEspecialidad.DisplayMember = "Text";
 		}
 
 		private void frmEspecialidad_Load(object sender, EventArgs e)
