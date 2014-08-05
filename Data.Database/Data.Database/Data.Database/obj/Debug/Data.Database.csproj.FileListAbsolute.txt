@@ -5,17 +5,10 @@ C:\Users\LUCRECIA\Documents\GitHub\TP2\Data.Database\Data.Database\Data.Database
 C:\Users\LUCRECIA\Documents\GitHub\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
 C:\Users\LUCRECIA\Documents\GitHub\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
 C:\Users\LUCRECIA\Documents\GitHub\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb

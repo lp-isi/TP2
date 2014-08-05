@@ -20,14 +20,14 @@ C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\bin\Debug\Da
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\obj\x86\Debug\UI.Consola.csprojResolveAssemblyReference.cache
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\obj\x86\Debug\UI.Consola.exe
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Consola\obj\x86\Debug\UI.Consola.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\bin\Debug\UI.Consola.exe
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\bin\Debug\UI.Consola.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\bin\Debug\Business.Entities.dll
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\bin\Debug\Business.Logic.dll
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\bin\Debug\Data.Database.dll
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\bin\Debug\Business.Entities.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\bin\Debug\Business.Logic.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\bin\Debug\Data.Database.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\obj\x86\Debug\UI.Consola.csprojResolveAssemblyReference.cache
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\obj\x86\Debug\UI.Consola.exe
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Consola\obj\x86\Debug\UI.Consola.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\bin\Debug\Business.Entities.dll
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\bin\Debug\Business.Logic.dll
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\bin\Debug\Business.Entities.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\bin\Debug\Business.Logic.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\obj\x86\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\obj\x86\Debug\UI.Consola.exe
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Consola\obj\x86\Debug\UI.Consola.pdb

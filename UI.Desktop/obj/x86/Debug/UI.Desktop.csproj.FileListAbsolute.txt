@@ -29,19 +29,15 @@ C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desk
 C:\Users\LUCRECIA\Documents\GitHub\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.exe
 C:\Users\LUCRECIA\Documents\GitHub\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.pdb
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.exe
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\bin\Debug\UI.Desktop.exe
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\bin\Debug\UI.Desktop.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\bin\Debug\Business.Entities.dll
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\bin\Debug\Business.Logic.dll
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\bin\Debug\Data.Database.dll
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\bin\Debug\Business.Entities.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\bin\Debug\Business.Logic.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\bin\Debug\Data.Database.pdb
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.Usuarios.resources
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.Properties.Resources.resources
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.csproj.GenerateResource.Cache
-C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2-master\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.UsuarioDesktop.resources
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Usuarios.resources
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csproj.GenerateResource.Cache

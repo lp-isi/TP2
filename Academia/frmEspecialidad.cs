@@ -74,7 +74,7 @@ namespace Academia
 			dtEspecialidades.Columns.Add("Text");
 			dtEspecialidades.Columns.Add("Value");
 
-			listadoEspecialidades = EspecialidadAdapter.ObtenerListado();
+			//listadoEspecialidades = EspecialidadAdapter.ObtenerListado();
 
 			foreach (Business.Entities.Especialidad esp in listadoEspecialidades)
 			{
