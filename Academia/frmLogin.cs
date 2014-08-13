@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace Academia
 {
-    public partial class formLogin : Form
+    public partial class frmLogin : Form
     {
-        public formLogin()
+        public frmLogin()
         {
             InitializeComponent();
         }

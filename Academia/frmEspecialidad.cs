@@ -17,7 +17,6 @@ namespace Academia
         public frmEspecialidad()
         {
             InitializeComponent();
-            this.CargaCombos();
         }
 
         public bool Validaciones() 
@@ -51,6 +50,8 @@ namespace Academia
                 Business.Entities.Especialidad especialidad = new Business.Entities.Especialidad(txtDescripcion.Text);
                 esp.Update(especialidad);
                 
+				//cargar los datos y poner en blanco la caja de texto
+				frmEspecialidad_Load(sender, e);
             }
         }
 
@@ -61,6 +62,9 @@ namespace Academia
                 Data.Database.EspecialidadAdapter esp = new Data.Database.EspecialidadAdapter();
                 Business.Entities.Especialidad especialidad = new Business.Entities.Especialidad(txtDescripcion.Text);
                 esp.Delete(especialidad);
+
+				//cargar los datos y poner en blanco la caja de texto
+				frmEspecialidad_Load(sender, e);
             }
 
         }
@@ -69,25 +73,16 @@ namespace Academia
         { 
 			List<Business.Entities.Especialidad> listadoEspecialidades = new List<Business.Entities.Especialidad>();
            
-			// Creo DataTable con origen de datos para la lista
-			DataTable dtEspecialidades = new DataTable();
-			dtEspecialidades.Columns.Add("Text");
-			dtEspecialidades.Columns.Add("Value");
-
 			//listadoEspecialidades = EspecialidadAdapter.ObtenerListado();
 
-			foreach (Business.Entities.Especialidad esp in listadoEspecialidades)
-			{
-				dtEspecialidades.Rows.Add(new object[] {esp.Descripcion,esp.Id});
-			}
-
-			cmbEspecialidad.DataSource = dtEspecialidades;
-			cmbEspecialidad.DisplayMember = "Text";
+			cmbEspecialidad.DataSource = listadoEspecialidades;
+			cmbEspecialidad.DisplayMember = "Descripcion";
+			txtDescripcion.Text = string.Empty;
 		}
 
 		private void frmEspecialidad_Load(object sender, EventArgs e)
 		{
-
+			this.CargaCombos();
 		}
 
 

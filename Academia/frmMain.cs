@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace Academia
 {
-    public partial class formMain : Form
+    public partial class frmMain : Form
     {
-        public formMain()
+        public frmMain()
         {
             InitializeComponent();
         }
@@ -24,7 +24,7 @@ namespace Academia
 
         private void FormMain_Shown(object sender, EventArgs e)
         {
-            formLogin appLogin = new formLogin();
+            frmLogin appLogin = new frmLogin();
             if (appLogin.ShowDialog() != DialogResult.OK)
             {
                 this.Dispose();

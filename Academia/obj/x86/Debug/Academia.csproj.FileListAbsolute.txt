@@ -50,3 +50,5 @@ C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Academia\bin\Debug\Business.Logi
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Academia\bin\Debug\Data.Database.pdb
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.frmPlan.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.frmModulo.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.frmLogin.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Academia\obj\x86\Debug\Academia.frmMain.resources
