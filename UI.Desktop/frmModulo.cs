@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Academia
+namespace UI.Desktop
 {
     public partial class frmModulo : Form
     {
@@ -15,5 +15,10 @@ namespace Academia
         {
             InitializeComponent();
         }
+
+		private void dgvModulo_CellContentClick(object sender, DataGridViewCellEventArgs e)
+		{
+
+		}
     }
 }

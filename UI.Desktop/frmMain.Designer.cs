@@ -1,4 +1,4 @@
-﻿namespace Academia
+﻿namespace UI
 {
     partial class frmMain
     {
@@ -70,6 +70,7 @@
 			this.Name = "frmMain";
 			this.Text = "Academia";
 			this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+			this.Load += new System.EventHandler(this.frmMain_Load);
 			this.Shown += new System.EventHandler(this.FormMain_Shown);
 			this.mnsPrincipal.ResumeLayout(false);
 			this.mnsPrincipal.PerformLayout();

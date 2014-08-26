@@ -1,4 +1,4 @@
-﻿namespace Academia
+﻿namespace UI.Desktop
 {
     partial class frmUsuario
     {

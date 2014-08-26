@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Academia
+namespace UI.Desktop
 {
     public partial class frmLogin : Form
     {
@@ -36,6 +36,11 @@ namespace Academia
             MessageBox.Show("Es Ud. un usuario muy descuidado, haga memoria", "Olvidé mi contraseña",
             MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
         }
+
+		private void frmLogin_Load(object sender, EventArgs e)
+		{
+
+		}
 
        
 

@@ -6,11 +6,10 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using Data.Database;
+using Business.Entities;
+using Business.Logic;
 
-
-
-namespace Academia
+namespace UI.Desktop
 {
     public partial class frmEspecialidad : Form
     {
@@ -59,21 +58,21 @@ namespace Academia
         {
             if (this.Validaciones())
             {
-                Data.Database.EspecialidadAdapter esp = new Data.Database.EspecialidadAdapter();
-                Business.Entities.Especialidad especialidad = new Business.Entities.Especialidad(txtDescripcion.Text);
-                esp.Delete(especialidad);
+				Especialidad especialidad = new Business.Entities.Especialidad(cmbEspecialidad.SelectedItem.ToString());
+                
+				EspecialidadLogic.Delete(especialidad);
 
 				//cargar los datos y poner en blanco la caja de texto
 				frmEspecialidad_Load(sender, e);
-            }
+            } 
 
         }
 
         public void CargaCombos()
         { 
-			List<Business.Entities.Especialidad> listadoEspecialidades = new List<Business.Entities.Especialidad>();
-           
-			//listadoEspecialidades = EspecialidadAdapter.ObtenerListado();
+			List<Especialidad> listadoEspecialidades = new List<Especialidad>();
+
+			listadoEspecialidades = EspecialidadLogic.GetAll();
 
 			cmbEspecialidad.DataSource = listadoEspecialidades;
 			cmbEspecialidad.DisplayMember = "Descripcion";

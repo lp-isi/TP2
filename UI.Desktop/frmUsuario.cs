@@ -9,7 +9,7 @@ using System.Windows.Forms;
 using Business.Entities;
 
 
-namespace Academia
+namespace UI.Desktop
 {
     public partial class frmUsuario : Form
     {

@@ -41,3 +41,9 @@ C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desk
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Usuarios.resources
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Properties.Resources.resources
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmEspecialidad.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmLogin.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmMain.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModulo.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlan.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmUsuario.resources

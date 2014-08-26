@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Academia
+namespace UI.Desktop
 {
     public partial class frmPlan : Form
     {
@@ -24,7 +24,7 @@ namespace Academia
 
 		public void cargaCombos()
 		{
-			List<Business.Entities.Especialidad> listadoPlanes = new List<Business.Entities.Especialidad>;
+			List<Business.Entities.Especialidad> listadoPlanes = new List<Business.Entities.Especialidad>();
 
 			
 			DataTable dtPlanes = new DataTable();

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Academia
+namespace UI.Desktop
 {
     public partial class frmMain : Form
     {
@@ -32,6 +32,11 @@ namespace Academia
            
 
         }
+
+		private void frmMain_Load(object sender, EventArgs e)
+		{
+
+		}
     }
 }
 
