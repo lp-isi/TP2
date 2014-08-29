@@ -47,3 +47,5 @@ C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debu
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModulo.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlan.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmUsuario.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.exe
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.pdb
