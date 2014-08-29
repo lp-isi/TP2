@@ -19,5 +19,9 @@ namespace Business.Logic
         {
             ModuloAdapter.Delete(mod);
         }
+        public static void Save(Modulo mod)
+        {
+            ModuloAdapter.Save(mod);
+        }
     }
 }

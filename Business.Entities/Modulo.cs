@@ -13,5 +13,11 @@ namespace Business.Entities
             get { return _descripcion; }
             set { _descripcion = value; }
         }
+        private string _ejecuta;
+        public string Ejecuta
+        {
+            get { return _ejecuta; }
+            set { _ejecuta = value; }
+        }
     }
 }

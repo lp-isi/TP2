@@ -6,19 +6,19 @@ using Business.Entities;
 
 namespace Data.Database
 {
-    class ModuloAdapter : Adapter
+    public  class ModuloAdapter : Adapter
     {
-        public void Save(Modulo mod)
+        public static void Save(Modulo mod)
         {           
             // Falta la cadena de conexion y que guarde el objeto
         }
 
-        public void Update(Modulo mod)
+        public static void Update(Modulo mod)
         {
             // Falta la cadena de conexion y que detecte el objeto y lo cambie
         }
 
-        public void Delete(Modulo mod)
+        public static void Delete(Modulo mod)
         {
             // Falta la cadena de conexion y que detecte el objeto y lo elimine
         }
