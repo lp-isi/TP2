@@ -6,9 +6,9 @@ using Business.Entities;
 
 namespace Data.Database
 {
-    public  class ModuloAdapter : Adapter
+    public class ModuloAdapter : Adapter
     {
-        public static void Save(Modulo mod)
+        public static void Create(Modulo mod)
         {           
             // Falta la cadena de conexion y que guarde el objeto
         }
