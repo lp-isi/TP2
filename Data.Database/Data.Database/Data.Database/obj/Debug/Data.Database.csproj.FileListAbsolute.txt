@@ -19,3 +19,5 @@ C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Data
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\diego\Documents\GitHub\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\GitHub\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll

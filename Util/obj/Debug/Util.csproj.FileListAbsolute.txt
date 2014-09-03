@@ -6,3 +6,7 @@ C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Util\bin\Debug\Util.dll
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Util\bin\Debug\Util.pdb
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Util\obj\Debug\Util.dll
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Util\obj\Debug\Util.pdb
+C:\Users\diego\Documents\GitHub\TP2\Util\bin\Debug\Util.dll
+C:\Users\diego\Documents\GitHub\TP2\Util\bin\Debug\Util.pdb
+C:\Users\diego\Documents\GitHub\TP2\Util\obj\Debug\Util.dll
+C:\Users\diego\Documents\GitHub\TP2\Util\obj\Debug\Util.pdb

@@ -15,21 +15,13 @@ namespace Business.Logic
             return ModuloAdapter.GetAll();
         }
 
-
-		public static void Create(Modulo mod)
-		{
-			ModuloAdapter.Create(mod);
-		}
-
-		public static void Update(Modulo mod)
-		{
-			ModuloAdapter.Update(mod);
-		}
-
         public static void Delete(Modulo mod)
         {
             ModuloAdapter.Delete(mod);
         }
-
+        public static void Save(Modulo mod)
+        {
+            ModuloAdapter.Save(mod);
+        }
     }
 }

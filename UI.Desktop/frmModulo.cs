@@ -31,7 +31,7 @@ namespace UI.Desktop
             mod.Id = Convert.ToInt32(txtId.Text);
             mod.Ejecuta = txtEjecuta.Text;
             //Guardo Modulo
-            ModuloLogic.Create(mod);
+            ModuloLogic.Save(mod);
 
             
         }
@@ -50,14 +50,7 @@ namespace UI.Desktop
             mod.Ejecuta = txtEjecuta.Text;
             //Mando Modulo
             ModuloLogic.Delete(mod);
-
-
             
         }
-
-		private void frmModulo_Load(object sender, EventArgs e)
-		{
-			//this.cargaGrilla;
-		}
     }
 }

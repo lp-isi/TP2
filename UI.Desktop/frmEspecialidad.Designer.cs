@@ -65,7 +65,6 @@
 			this.cmbEspecialidad.Name = "cmbEspecialidad";
 			this.cmbEspecialidad.Size = new System.Drawing.Size(184, 21);
 			this.cmbEspecialidad.TabIndex = 2;
-			this.cmbEspecialidad.SelectedIndexChanged += new System.EventHandler(this.cmbEspecialidad_SelectedIndexChanged);
 			// 
 			// lblDescripcion
 			// 

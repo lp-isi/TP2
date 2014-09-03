@@ -9,17 +9,17 @@ namespace Data.Database
 {
     public class EspecialidadAdapter : Adapter
     {
-        public static void Create(Especialidad esp)
+        public void Save(Especialidad esp)
         {
             // Falta la cadena de conexion y que guarde el objeto
         }
 
-        public static void Update(Especialidad esp)
+        public void Update(Especialidad esp)
         {
             // Falta la cadena de conexion y que detecte el objeto y lo cambie
         }
 
-        public static void Delete(Especialidad esp)
+        public void Delete(Especialidad esp)
         {
             // Falta la cadena de conexion y que detecte el objeto y lo elimine
         }
@@ -29,7 +29,7 @@ namespace Data.Database
 			System.Data.SqlClient.SqlConnection myconn = Connection.Connect();
 			if (myconn == null)
 			{
-				//ERROR
+				//Error
 			}
 			else
 			{

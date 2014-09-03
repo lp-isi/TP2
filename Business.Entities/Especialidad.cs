@@ -15,12 +15,6 @@ namespace Business.Entities
 
        }
 
-	   public Especialidad(int id, string desc)
-	   {
-		   this.Descripcion = desc;
-		   this.Id = id;
-	   }
-
         private string _descripcion;
         public string Descripcion
         {
