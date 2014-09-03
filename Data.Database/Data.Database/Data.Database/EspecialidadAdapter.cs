@@ -26,19 +26,30 @@ namespace Data.Database
 
 		public static List<Especialidad> GetAll()
 		{
+			List<Especialidad> listadoEspecialidades = new List<Especialidad>();
 			System.Data.SqlClient.SqlConnection myconn = Connection.Connect();
 			if (myconn == null)
 			{
-				//Error
+				//ERROR
 			}
 			else
 			{
 				try
 				{
 					myconn.Open();
+					System.Data.SqlClient.SqlCommand consulta = new System.Data.SqlClient.SqlCommand("select * from especialidades", myconn);
+					System.Data.SqlClient.SqlDataReader dr = consulta.ExecuteReader();
+					while (dr.Read())
+					{
+						Especialidad esp = new Especialidad((int)dr["id"], dr["descripcion"].ToString());
+						listadoEspecialidades.Add(esp);
+					}
+					return listadoEspecialidades;
+
 				}
 				catch (Exception e)
 				{
+					return null;
 				}
 				finally
 				{
@@ -51,7 +62,6 @@ namespace Data.Database
 				}
 			}
 		}
-		
     }
 
 }
