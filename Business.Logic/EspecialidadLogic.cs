@@ -14,6 +14,16 @@ namespace Business.Logic
 		{
 			return EspecialidadAdapter.GetAll();
 		}
+        public static void Create(Especialidad esp)
+        {
+            EspecialidadAdapter.Save(esp);
+        }
+
+        public static void Update(Especialidad esp)
+        {
+            EspecialidadAdapter.Update(esp);
+        }
+
 
 		public static void Delete(Especialidad esp)
 		{

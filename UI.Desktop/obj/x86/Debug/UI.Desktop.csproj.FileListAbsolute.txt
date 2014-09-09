@@ -51,11 +51,9 @@ C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.exe
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.pdb
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmEspecialidad.resources
-C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmLogin.resources
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmMain.resources
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModulo.resources
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlan.resources
-C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmUsuario.resources
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Usuarios.resources
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Properties.Resources.resources
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csproj.GenerateResource.Cache
@@ -123,3 +121,25 @@ C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\UI.Desktop\obj\x86\Debug\UI
 C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.Usuarios.resources
 C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.Properties.Resources.resources
 C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\bin\Debug\Util.dll
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\bin\Debug\Util.pdb
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmBase.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmBaseAgregar.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComision.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComisionAgregar.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComisionL.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComisionLAgregar.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmCurso.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmCursoAgregar.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmCursoL.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmMateria.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModuloL.resources
+C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlanL.resources

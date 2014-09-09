@@ -6,29 +6,30 @@ using Business.Entities;
 
 namespace Data.Database
 {
-    public class ComisionAdapter : Adapter
+    public class CursoAdapter : Adapter
     {
-        public static void Save(Comision com)
+
+        public static void Create(Curso curso)
         {
             // Falta la cadena de conexion y que guarde el objeto
         }
 
-        public static void Update(Comision com)
+        public static void Update(Curso curso)
         {
             // Falta la cadena de conexion y que detecte el objeto y lo cambie
         }
 
-        public static void Delete(Comision com)
+        public static void Delete(Curso curso)
         {
             // Falta la cadena de conexion y que detecte el objeto y lo elimine
         }
 
-        public static List<Comision> GetAll()
+        public static List<Curso> GetAll()
         {
             System.Data.SqlClient.SqlConnection myconn = Connection.Connect();
             if (myconn == null)
             {
-                //Error
+                //ERROR
                 return null;
             }
             else
@@ -49,9 +50,8 @@ namespace Data.Database
                     }
                     myconn.Dispose();
                     myconn = null;
-
                 } return null;
-            } 
+            }
         }
     }
 }

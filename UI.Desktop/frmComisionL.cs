@@ -38,7 +38,7 @@ namespace UI.Desktop
             //Creo el objeto
             Comision com = new Comision();
             //FALTA ASIGNAR EL ID
-            ComisionLogic.Eliminar(com);
+            ComisionLogic.Delete(com);
         }
 
         private void btnEditar_Click_1(object sender, EventArgs e)
