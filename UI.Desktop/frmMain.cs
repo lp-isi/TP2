@@ -24,11 +24,11 @@ namespace UI.Desktop
 
         private void FormMain_Shown(object sender, EventArgs e)
         {
-            frmLogin appLogin = new frmLogin();
-            if (appLogin.ShowDialog() != DialogResult.OK)
-            {
-                this.Dispose();
-            }
+            //frmLogin appLogin = new frmLogin();
+            //if (appLogin.ShowDialog() != DialogResult.OK)
+            //{
+            //    this.Dispose();
+            //}
            
 
         }

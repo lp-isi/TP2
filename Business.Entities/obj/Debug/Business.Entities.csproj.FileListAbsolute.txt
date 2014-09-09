@@ -12,3 +12,11 @@ C:\Users\diego\Documents\GitHub\TP2\Business.Entities\bin\Debug\Business.Entitie
 C:\Users\diego\Documents\GitHub\TP2\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
 C:\Users\diego\Documents\GitHub\TP2\Business.Entities\obj\Debug\Business.Entities.dll
 C:\Users\diego\Documents\GitHub\TP2\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Entities\obj\Debug\Business.Entities.pdb

@@ -33,25 +33,25 @@ namespace UI.Desktop
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            if (this.Validaciones())
-            { 
-                Data.Database.EspecialidadAdapter esp = new Data.Database.EspecialidadAdapter();
-                Business.Entities.Especialidad especialidad = new Business.Entities.Especialidad(txtDescripcion.Text);
-                esp.Save(especialidad);
-            }
+            //if (this.Validaciones())
+            //{ 
+            //    Data.Database.EspecialidadAdapter esp = new Data.Database.EspecialidadAdapter();
+            //    Business.Entities.Especialidad especialidad = new Business.Entities.Especialidad(txtDescripcion.Text);
+            //    esp.Save(especialidad);
+            //}
         }
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
-            if (this.Validaciones())
-            {
-                Data.Database.EspecialidadAdapter esp = new Data.Database.EspecialidadAdapter();
-                Business.Entities.Especialidad especialidad = new Business.Entities.Especialidad(txtDescripcion.Text);
-                esp.Update(especialidad);
+            //if (this.Validaciones())
+            //{
+            //    Data.Database.EspecialidadAdapter esp = new Data.Database.EspecialidadAdapter();
+            //    Business.Entities.Especialidad especialidad = new Business.Entities.Especialidad(txtDescripcion.Text);
+            //    esp.Update(especialidad);
                 
-				//cargar los datos y poner en blanco la caja de texto
-				frmEspecialidad_Load(sender, e);
-            }
+            //    //cargar los datos y poner en blanco la caja de texto
+            //    frmEspecialidad_Load(sender, e);
+            //}
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)

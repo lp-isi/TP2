@@ -9,17 +9,17 @@ namespace Data.Database
 {
     public class EspecialidadAdapter : Adapter
     {
-        public void Save(Especialidad esp)
+        public static void Save(Especialidad esp)
         {
             // Falta la cadena de conexion y que guarde el objeto
         }
 
-        public void Update(Especialidad esp)
+        public static void Update(Especialidad esp)
         {
             // Falta la cadena de conexion y que detecte el objeto y lo cambie
         }
 
-        public void Delete(Especialidad esp)
+        public static void Delete(Especialidad esp)
         {
             // Falta la cadena de conexion y que detecte el objeto y lo elimine
         }
@@ -31,18 +31,41 @@ namespace Data.Database
 			if (myconn == null)
 			{
 				//ERROR
+                return null;
 			}
 			else
 			{
 				try
 				{
 					myconn.Open();
-					System.Data.SqlClient.SqlCommand consulta = new System.Data.SqlClient.SqlCommand("select * from especialidades", myconn);
+					System.Data.SqlClient.SqlCommand consulta = new System.Data.SqlClient.SqlCommand("select id, descripcion from especialidades", myconn);
 					System.Data.SqlClient.SqlDataReader dr = consulta.ExecuteReader();
 					while (dr.Read())
 					{
 						Especialidad esp = new Especialidad((int)dr["id"], dr["descripcion"].ToString());
-						listadoEspecialidades.Add(esp);
+                        Especialidad esp2 = new Especialidad();
+                        if (dr.IsDBNull(0))
+                        {
+                            esp2.Id = 0;
+                        }
+                        else
+                        {
+                            esp2.Id = Convert.ToInt32(dr[0]);
+                        }
+
+                        if (dr.IsDBNull(1))
+                        {
+                            esp2.Descripcion = string.Empty; // ""
+                        }
+                        else
+                        {
+                            esp2.Descripcion = dr[1].ToString();
+                        }
+
+                        esp2.Id = dr.IsDBNull(0) ? 0 : Convert.ToInt32(dr[0]);
+                        esp2.Descripcion = dr.IsDBNull(1) ? string.Empty : dr[1].ToString();
+
+                        listadoEspecialidades.Add(esp);
 					}
 					return listadoEspecialidades;
 

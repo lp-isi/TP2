@@ -29,13 +29,13 @@ namespace Data.Database
             if (myconn == null)
             {
                 //Error
-              
+                return null;
             }
             else
             {
                 try
                 {
-                    myconn.Open();
+                    myconn.Open(); return null;
                 }
                 catch (Exception e)
                 {
@@ -48,7 +48,7 @@ namespace Data.Database
                     }
                     myconn.Dispose();
                     myconn = null;
-                }
+                } return null;
             }
         }
 		

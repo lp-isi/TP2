@@ -24,12 +24,12 @@ namespace UI.Desktop
 
 		public void cargaCombos()
 		{
-			List<Business.Entities.Especialidad> listadoPlanes = new List<Business.Entities.Especialidad>();
+            //List<Business.Entities.Especialidad> listadoPlanes = new List<Business.Entities.Especialidad>();
 
 			
-			DataTable dtPlanes = new DataTable();
-			dtEspecialidades.Columns.Add("Text");
-			dtEspecialidades.Columns.Add("Value");
+            //DataTable dtPlanes = new DataTable();
+            //dtEspecialidades.Columns.Add("Text");
+            //dtEspecialidades.Columns.Add("Value");
 		}
 
     }

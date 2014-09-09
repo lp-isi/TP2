@@ -27,3 +27,25 @@ C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Business.Logic\obj\Debug\Busines
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\Business.Logic\obj\Debug\Business.Logic.pdb
 C:\Users\diego\Documents\GitHub\TP2\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
 C:\Users\diego\Documents\GitHub\TP2\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\bin\Debug\Util.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP2Git\TP2-master\Business.Logic\bin\Debug\Util.pdb
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\bin\Debug\Util.dll
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\bin\Debug\Util.pdb
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Logic\obj\Debug\Business.Logic.pdb
