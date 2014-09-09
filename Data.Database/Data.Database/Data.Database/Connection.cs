@@ -22,5 +22,15 @@ namespace Data.Database
 
 			return myconn;
 		}
+
+		public static void Dispose(System.Data.SqlClient.SqlConnection myconn)
+		{
+			if (myconn.State == System.Data.ConnectionState.Open)
+			{
+				myconn.Close();
+			}
+			myconn.Dispose();
+			myconn = null;
+		}
 	}
 }

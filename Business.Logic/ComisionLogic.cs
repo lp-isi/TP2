@@ -10,14 +10,9 @@ namespace Business.Logic
     public class ComisionLogic
     {
 
-        public static List<Comision> GetAll()
-        {
-            return ComisionAdapter.GetAll();
-        }
-
         public static void Create(Comision com)
         {
-            ComisionAdapter.Save(com);
+            ComisionAdapter.Create(com);
         }
 
         public static void Update(Comision com)
@@ -29,5 +24,10 @@ namespace Business.Logic
         {
             ComisionAdapter.Delete(com);
         }
+
+		public static List<Comision> GetAll()
+		{
+			return ComisionAdapter.GetAll();
+		}
     }
 }

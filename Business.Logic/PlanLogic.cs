@@ -10,11 +10,6 @@ namespace Business.Logic
     public class PlanLogic
     {
 
-        public static List<Plan> GetAll()
-        {
-            return PlanAdapter.GetAll();
-        }
-
         public static void Create(Plan plan)
         {
             PlanAdapter.Create(plan);
@@ -29,6 +24,11 @@ namespace Business.Logic
         {
             PlanAdapter.Delete(plan);
         }
+
+		public static List<Plan> GetAll()
+		{
+			return PlanAdapter.GetAll();
+		}
 
     }
 }

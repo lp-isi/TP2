@@ -10,11 +10,6 @@ namespace Business.Logic
     public class MateriaLogic
     {
 
-        public static List<Materia> GetAll()
-        {
-            return MateriaAdapter.GetAll();
-        }
-
         public static void Create(Materia mat)
         {
             MateriaAdapter.Create(mat);
@@ -29,6 +24,11 @@ namespace Business.Logic
         {
             MateriaAdapter.Delete(mat);
         }
+
+		public static List<Materia> GetAll()
+		{
+			return MateriaAdapter.GetAll();
+		}
 
     }
 }

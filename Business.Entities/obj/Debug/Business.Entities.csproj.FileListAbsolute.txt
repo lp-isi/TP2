@@ -20,3 +20,8 @@ C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Entities\bin\Debug
 C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Entities\bin\Debug\Business.Entities.pdb
 C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Entities\obj\Debug\Business.Entities.dll
 C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Entities\obj\Debug\Business.Entities.pdb

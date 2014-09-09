@@ -8,20 +8,18 @@ namespace Business.Entities
    public class Especialidad : BusinessEntity
     {
        public Especialidad()
-       { }
+       { 
+	   }
 
        public Especialidad(string desc)
        {
            this.Descripcion = desc;
-           //this.Id = id;
-
        }
 
        public Especialidad(int id,string desc)
        {
            this.Descripcion = desc;
            this.Id = id;
-
        }
 
         private string _descripcion;

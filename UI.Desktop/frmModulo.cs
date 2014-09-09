@@ -31,9 +31,7 @@ namespace UI.Desktop
             mod.Id = Convert.ToInt32(txtId.Text);
             mod.Ejecuta = txtEjecuta.Text;
             //Guardo Modulo
-            ModuloLogic.Save(mod);
-
-            
+            ModuloLogic.Create(mod);
         }
 
         private void btnModificar_Click(object sender, EventArgs e)

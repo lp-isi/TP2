@@ -8,7 +8,7 @@ namespace Data.Database
 {
     public class ComisionAdapter : Adapter
     {
-        public static void Save(Comision com)
+        public static void Create(Comision com)
         {
             // Falta la cadena de conexion y que guarde el objeto
         }

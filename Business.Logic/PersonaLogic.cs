@@ -10,11 +10,6 @@ namespace Business.Logic
     public class PersonaLogic
     {
 
-        public static List<Persona> GetAll()
-        {
-            return PersonaAdapter.GetAll();
-        }
-
         public static void Create(Persona per)
         {
             PersonaAdapter.Create(per);
@@ -29,6 +24,11 @@ namespace Business.Logic
         {
             PersonaAdapter.Delete(per);
         }
+
+		public static List<Persona> GetAll()
+		{
+			return PersonaAdapter.GetAll();
+		}
 
     }
 }

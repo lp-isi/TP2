@@ -10,18 +10,24 @@ namespace Business.Logic
     public class ModuloLogic
     {
 
-        public static List<Business.Entities.Modulo> GetAll()
+        public static void Create(Modulo mod)
         {
-            return ModuloAdapter.GetAll();
+            ModuloAdapter.Create(mod);
         }
 
-        public static void Delete(Modulo mod)
-        {
-            ModuloAdapter.Delete(mod);
-        }
-        public static void Save(Modulo mod)
-        {
-            ModuloAdapter.Save(mod);
-        }
+		public static void Update(Modulo mod)
+		{
+			ModuloAdapter.Update(mod);
+		}
+
+		public static void Delete(Modulo mod)
+		{
+			ModuloAdapter.Delete(mod);
+		}
+
+		public static List<Business.Entities.Modulo> GetAll()
+		{
+			return ModuloAdapter.GetAll();
+		}
     }
 }

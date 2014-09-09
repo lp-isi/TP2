@@ -42,11 +42,9 @@ C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desk
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Properties.Resources.resources
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csproj.GenerateResource.Cache
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmEspecialidad.resources
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmLogin.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmMain.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModulo.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlan.resources
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmUsuario.resources
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.exe
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.pdb
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
@@ -143,3 +141,17 @@ C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmCurso
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmMateria.resources
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModuloL.resources
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlanL.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmBase.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmBaseAgregar.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComision.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComisionAgregar.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComisionL.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComisionLAgregar.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmCurso.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmCursoAgregar.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmCursoL.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmMateria.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModuloL.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlanL.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\Util.dll
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\Util.pdb

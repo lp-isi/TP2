@@ -16,7 +16,7 @@ namespace Business.Logic
 		}
         public static void Create(Especialidad esp)
         {
-            EspecialidadAdapter.Save(esp);
+            EspecialidadAdapter.Create(esp);
         }
 
         public static void Update(Especialidad esp)

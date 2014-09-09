@@ -10,11 +10,6 @@ namespace Business.Logic
     public class CursoLogic
     {
 
-        public static List<Curso> GetAll()
-        {
-            return CursoAdapter.GetAll();
-        }
-
         public static void Create(Curso curso)
         {
             CursoAdapter.Create(curso);
@@ -27,9 +22,13 @@ namespace Business.Logic
 
         public static void Delete(Curso curso)
         {
-            CursoAdapter.Delete(curso);
-            
+            CursoAdapter.Delete(curso);    
         }
+
+		public static List<Curso> GetAll()
+		{
+			return CursoAdapter.GetAll();
+		}
 
     }
 }
