@@ -60,3 +60,14 @@ C:\Users\diego\Documents\GitHub\TP2\Business.Logic\bin\Debug\Util.pdb
 C:\Users\diego\Documents\GitHub\TP2\Business.Logic\obj\Debug\Business.Logic.pdb
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Logic\bin\Debug\Util.dll
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Logic\bin\Debug\Util.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\bin\Debug\Util.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\bin\Debug\Util.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Logic\obj\Debug\Business.Logic.pdb

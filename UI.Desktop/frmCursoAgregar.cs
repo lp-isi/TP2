@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace UI.Desktop
 {
-    public partial class frmCursoAgregar : frmBaseAgregar
+    public partial class frmCursoAgregar : Form
     {
         public frmCursoAgregar()
         {

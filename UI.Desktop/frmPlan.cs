@@ -9,28 +9,16 @@ using System.Windows.Forms;
 
 namespace UI.Desktop
 {
-    public partial class frmPlan : Form
+    public partial class frmPlan : frmBase
     {
-        public frmPlan() //Solo usa Descripcion, el id del plan lo trabaja la base de datos 
+        public frmPlan()
         {
             InitializeComponent();
-            
         }
 
-		private void frmPlan_Load(object sender, EventArgs e)
-		{
+        private void frmPlanL_Load(object sender, EventArgs e)
+        {
 
-		}
-
-		public void cargaCombos()
-		{
-            //List<Business.Entities.Especialidad> listadoPlanes = new List<Business.Entities.Especialidad>();
-
-			
-            //DataTable dtPlanes = new DataTable();
-            //dtEspecialidades.Columns.Add("Text");
-            //dtEspecialidades.Columns.Add("Value");
-		}
-
+        }
     }
 }

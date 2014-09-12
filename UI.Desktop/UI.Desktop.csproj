@@ -52,12 +52,6 @@
     <Compile Include="frmBase.Designer.cs">
       <DependentUpon>frmBase.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmBaseAgregar.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmBaseAgregar.Designer.cs">
-      <DependentUpon>frmBaseAgregar.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmComision.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -69,18 +63,6 @@
     </Compile>
     <Compile Include="frmComisionAgregar.Designer.cs">
       <DependentUpon>frmComisionAgregar.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmComisionL.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmComisionL.Designer.cs">
-      <DependentUpon>frmComisionL.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmComisionLAgregar.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmComisionLAgregar.Designer.cs">
-      <DependentUpon>frmComisionLAgregar.cs</DependentUpon>
     </Compile>
     <Compile Include="frmCurso.cs">
       <SubType>Form</SubType>
@@ -94,35 +76,17 @@
     <Compile Include="frmCursoAgregar.Designer.cs">
       <DependentUpon>frmCursoAgregar.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmCursoL.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmCursoL.Designer.cs">
-      <DependentUpon>frmCursoL.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmCursoLAgregar.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmCursoLAgregar.Designer.cs">
-      <DependentUpon>frmCursoLAgregar.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmEspecialidad.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmEspecialidad.Designer.cs">
       <DependentUpon>frmEspecialidad.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmEspecialidadL.cs">
+    <Compile Include="frmEspecialidadAgregar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmEspecialidadL.Designer.cs">
-      <DependentUpon>frmEspecialidadL.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmEspecialidadLAgregar.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmEspecialidadLAgregar.Designer.cs">
-      <DependentUpon>frmEspecialidadLAgregar.cs</DependentUpon>
+    <Compile Include="frmEspecialidadAgregar.Designer.cs">
+      <DependentUpon>frmEspecialidadAgregar.cs</DependentUpon>
     </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
@@ -148,17 +112,11 @@
     <Compile Include="frmModulo.Designer.cs">
       <DependentUpon>frmModulo.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmModuloL.cs">
+    <Compile Include="frmModuloAgregar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmModuloL.Designer.cs">
-      <DependentUpon>frmModuloL.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmModuloLAgregar.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmModuloLAgregar.Designer.cs">
-      <DependentUpon>frmModuloLAgregar.cs</DependentUpon>
+    <Compile Include="frmModuloAgregar.Designer.cs">
+      <DependentUpon>frmModuloAgregar.cs</DependentUpon>
     </Compile>
     <Compile Include="frmPlan.cs">
       <SubType>Form</SubType>
@@ -166,17 +124,11 @@
     <Compile Include="frmPlan.Designer.cs">
       <DependentUpon>frmPlan.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmPlanL.cs">
+    <Compile Include="frmPlanAgregar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmPlanL.Designer.cs">
-      <DependentUpon>frmPlanL.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmPlanLAgregar.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmPlanLAgregar.Designer.cs">
-      <DependentUpon>frmPlanLAgregar.cs</DependentUpon>
+    <Compile Include="frmPlanAgregar.Designer.cs">
+      <DependentUpon>frmPlanAgregar.cs</DependentUpon>
     </Compile>
     <Compile Include="Usuarios.cs">
       <SubType>Form</SubType>
@@ -189,20 +141,11 @@
     <EmbeddedResource Include="frmBase.resx">
       <DependentUpon>frmBase.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmBaseAgregar.resx">
-      <DependentUpon>frmBaseAgregar.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmComision.resx">
       <DependentUpon>frmComision.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmComisionAgregar.resx">
       <DependentUpon>frmComisionAgregar.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmComisionL.resx">
-      <DependentUpon>frmComisionL.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmComisionLAgregar.resx">
-      <DependentUpon>frmComisionLAgregar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmCurso.resx">
       <DependentUpon>frmCurso.cs</DependentUpon>
@@ -210,11 +153,8 @@
     <EmbeddedResource Include="frmCursoAgregar.resx">
       <DependentUpon>frmCursoAgregar.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmCursoL.resx">
-      <DependentUpon>frmCursoL.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmEspecialidad.resx">
-      <DependentUpon>frmEspecialidad.cs</DependentUpon>
+    <EmbeddedResource Include="frmEspecialidadAgregar.resx">
+      <DependentUpon>frmEspecialidadAgregar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
@@ -222,17 +162,20 @@
     <EmbeddedResource Include="frmMateria.resx">
       <DependentUpon>frmMateria.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmMateriaAgregar.resx">
+      <DependentUpon>frmMateriaAgregar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmModulo.resx">
       <DependentUpon>frmModulo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmModuloL.resx">
-      <DependentUpon>frmModuloL.cs</DependentUpon>
+    <EmbeddedResource Include="frmModuloAgregar.resx">
+      <DependentUpon>frmModuloAgregar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmPlan.resx">
       <DependentUpon>frmPlan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmPlanL.resx">
-      <DependentUpon>frmPlanL.cs</DependentUpon>
+    <EmbeddedResource Include="frmPlanAgregar.resx">
+      <DependentUpon>frmPlanAgregar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Usuarios.resx">
       <DependentUpon>Usuarios.cs</DependentUpon>

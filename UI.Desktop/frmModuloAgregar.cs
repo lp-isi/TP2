@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace UI.Desktop
 {
-    public partial class frmEspecialidad : frmBase
+    public partial class frmModuloAgregar : Form
     {
-        public frmEspecialidad()
+        public frmModuloAgregar()
         {
             InitializeComponent();
         }

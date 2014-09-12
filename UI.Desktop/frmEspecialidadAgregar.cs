@@ -9,11 +9,16 @@ using System.Windows.Forms;
 
 namespace UI.Desktop
 {
-    public partial class frmEspecialidad : frmBase
+    public partial class frmEspecialidadAgregar : Form
     {
-        public frmEspecialidad()
+        public frmEspecialidadAgregar()
         {
             InitializeComponent();
+        }
+
+        private void lblDescripcion_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

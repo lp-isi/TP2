@@ -1,6 +1,6 @@
 ﻿namespace UI.Desktop
 {
-    partial class frmMateria
+    partial class frmModuloAgregar
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // frmMateria
+            // frmModuloAgregar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 262);
-            this.Name = "frmMateria";
-            this.Text = "Materia";
-            this.Load += new System.EventHandler(this.frmMateria_Load);
+            this.Name = "frmModuloAgregar";
+            this.Text = "Agregar Modulo";
             this.ResumeLayout(false);
 
         }

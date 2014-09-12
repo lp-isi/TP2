@@ -40,3 +40,10 @@ C:\Users\diego\Documents\GitHub\TP2\Data.Database\Data.Database\Data.Database\bi
 C:\Users\diego\Documents\GitHub\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
 C:\Users\diego\Documents\GitHub\TP2\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
 C:\Users\diego\Documents\GitHub\TP2\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Data.Database\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Data.Database\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Data.Database\Data.Database\Data.Database\obj\Debug\Data.Database.pdb

@@ -25,3 +25,8 @@ C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Entities\bin\D
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Entities\obj\Debug\Business.Entities.dll
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Business.Entities\obj\Debug\Business.Entities.pdb

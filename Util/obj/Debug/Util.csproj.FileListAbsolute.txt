@@ -18,3 +18,7 @@ C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Util\bin\Debug\Util.dll
 C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Util\bin\Debug\Util.pdb
 C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Util\obj\Debug\Util.dll
 C:\Users\diego\Documents\Facultad 4to\Net\TP2-master\Util\obj\Debug\Util.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Util\bin\Debug\Util.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Util\bin\Debug\Util.pdb
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Util\obj\Debug\Util.dll
+C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\Util\obj\Debug\Util.pdb
