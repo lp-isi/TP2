@@ -41,7 +41,6 @@ C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desk
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Usuarios.resources
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.Properties.Resources.resources
 C:\Users\GOSHO\Desktop\Facultad 4to\NET\TP2\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.csproj.GenerateResource.Cache
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmEspecialidad.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmMain.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModulo.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlan.resources
@@ -142,17 +141,11 @@ C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmMater
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModuloL.resources
 C:\Users\diego\Documents\GitHub\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlanL.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmBase.resources
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmBaseAgregar.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComision.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComisionAgregar.resources
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComisionL.resources
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmComisionLAgregar.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmCurso.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmCursoAgregar.resources
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmCursoL.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmMateria.resources
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModuloL.resources
-C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlanL.resources
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\Util.dll
 C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\bin\Debug\Util.pdb
 C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\UI.Desktop\obj\x86\Debug\UI.Desktop.exe
@@ -184,3 +177,8 @@ C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\UI.Desktop\bin\
 C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\UI.Desktop\bin\Debug\Business.Logic.pdb
 C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\UI.Desktop\bin\Debug\Util.pdb
 C:\Users\LUCRECIA\Documents\UTN\4to año\IDE\TP212-09\TP2-master\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmEspecialidadAgregar.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmMateriaAgregar.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmModuloAgregar.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmPlanAgregar.resources
+C:\Users\Elias\Documents\Visual Studio 2010\Projects\TP2\UI.Desktop\obj\x86\Debug\UI.Desktop.frmEspecialidad.resources

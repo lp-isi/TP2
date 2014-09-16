@@ -6,6 +6,8 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using Business.Entities;
+using Business.Logic;
 
 namespace UI.Desktop
 {
@@ -20,5 +22,17 @@ namespace UI.Desktop
         {
 
         }
+
+		private void frmEspecialidadAgregar_Load(object sender, EventArgs e)
+		{
+
+		}
+
+		private void btnAceptar_Click(object sender, EventArgs e)
+		{
+			Especialidad especialidad = new Especialidad(txtDescripcion.Text);
+			EspecialidadLogic.Create(especialidad);
+		}
+
     }
 }

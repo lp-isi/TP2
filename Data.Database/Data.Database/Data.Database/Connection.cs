@@ -17,7 +17,7 @@ namespace Data.Database
 			catch (Exception e)
 			{
 				myconn = null;
-				//Cartel error
+				Console.Write("ERROR WACHO");
 			}
 
 			return myconn;

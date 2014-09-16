@@ -153,6 +153,9 @@
     <EmbeddedResource Include="frmCursoAgregar.resx">
       <DependentUpon>frmCursoAgregar.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmEspecialidad.resx">
+      <DependentUpon>frmEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmEspecialidadAgregar.resx">
       <DependentUpon>frmEspecialidadAgregar.cs</DependentUpon>
     </EmbeddedResource>

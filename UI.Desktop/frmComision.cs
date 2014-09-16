@@ -32,6 +32,11 @@ namespace UI.Desktop
             ComisionLogic.Delete(com);
         }
 
+		private void btnAgregar_Click_1(object sender, EventArgs e)
+		{
+
+		}
+
     
     }
 }
