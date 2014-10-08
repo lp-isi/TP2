@@ -44,10 +44,12 @@ namespace UI.Desktop
 
 		}
 
-		private void btnAgregar_Click(object sender, EventArgs e)
+		protected override void btnAgregar_Click(object sender, EventArgs e)
 		{
-			
+			frmEspecialidadAgregar formulario = new frmEspecialidadAgregar();
+			formulario.ShowDialog();
 		}
+
 
     }
 }
