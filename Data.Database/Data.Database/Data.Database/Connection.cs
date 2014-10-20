@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Configuration;
 
 namespace Data.Database
 {
@@ -13,12 +12,12 @@ namespace Data.Database
 			System.Data.SqlClient.SqlConnection myconn = new System.Data.SqlClient.SqlConnection();
 			try
 			{
-				myconn.ConnectionString = ConfigurationManager.ConnectionStrings["connectionbd"].ConnectionString ;
+				myconn.ConnectionString = "Data Source=localhost;Initial Catalog=ACADEMIA;User=adminAcademia;Password=adminAcademia";
 			}
 			catch (Exception e)
 			{
 				myconn = null;
-				Console.Write("ERROR WACHO");
+				//Cartel error
 			}
 
 			return myconn;

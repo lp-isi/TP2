@@ -61,7 +61,7 @@ namespace Data.Database
 				try
 				{
 					myconn.Open();
-					System.Data.SqlClient.SqlCommand consulta = new System.Data.SqlClient.SqlCommand("select idespecialidad, nombre from Especialidad", myconn); 
+					System.Data.SqlClient.SqlCommand consulta = new System.Data.SqlClient.SqlCommand("select id, descripcion from especialidades", myconn); 
 					
 					//En la consulta conviene poner id, descripción y no * entonces se sabe que id es el 0 del data reader y descripción el 1
 					
@@ -98,7 +98,7 @@ namespace Data.Database
 						//3ra
 						
 						Especialidad esp = new Especialidad();
-						esp.Id = Convert.ToInt32(dr[0]); //No va porque ya es no nulo en la base de datos
+						//esp.Id = dr.IsDBNull(0) ? 0 : Convert.ToInt32(dr[0]); //No va porque ya es no nulo en la base de datos
                         esp.Descripcion = dr.IsDBNull(1) ? string.Empty : dr[1].ToString();
 
                         listadoEspecialidades.Add(esp);

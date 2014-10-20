@@ -28,16 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-			this.SuspendLayout();
-			// 
-			// frmComision
-			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(284, 262);
-			this.Name = "frmComision";
-			this.Text = "Comision";
-			this.ResumeLayout(false);
+            this.SuspendLayout();
+            // 
+            // frmComision
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.Name = "frmComision";
+            this.Text = "Comision";
+            this.ResumeLayout(false);
 
         }
 

@@ -15,20 +15,5 @@ namespace UI.Desktop
         {
             InitializeComponent();
         }
-
-		protected virtual void btnAgregar_Click(object sender, EventArgs e)
-		{
-
-		}
-
-		protected virtual void btnEditar_Click(object sender, EventArgs e)
-		{
-
-		}
-
-		protected virtual void btnEliminar_Click(object sender, EventArgs e)
-		{
-
-		}
     }
 }

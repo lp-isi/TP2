@@ -18,13 +18,13 @@ namespace UI.Desktop
             InitializeComponent();
         }
 
-       protected override void btnAgregar_Click(object sender, EventArgs e)
+       private void btnAgregar_Click(object sender, EventArgs e)
         {
             frmComisionAgregar frmAgregar = new frmComisionAgregar();
                 
         }
 
-        protected override void btnEliminar_Click(object sender, EventArgs e)
+        private void btnEliminar_Click(object sender, EventArgs e)
         {
             //Creo el objeto
             Comision com = new Comision();
